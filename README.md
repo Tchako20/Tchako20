@@ -1,8 +1,8 @@
 ### Olá Eu Sou O Thiago Saleth, Seja Muito Bem Vindo(a).
 
-- 🔭 Eu Estou Trabalhando com BackEnd
-- 🌱 Eu Estou Estudando Dart,Flutter e Java
-- 📈 Eu Estou trilhando Uma Trajétoria De Dev Mobile
+- 🔭 Eu Estou Trabalhando Com BackEnd
+- 🌱 Eu Estou Estudando Dart,Flutter E Java
+- 📈 Eu Estou Trilhando Uma Trajétoria De Dev Mobile
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
