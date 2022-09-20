@@ -10,7 +10,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tchako20&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tchako20&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
 <div style="display: inline_block"><br>
+  <img align="right" alt="Tchako" height="200" width="200" src="https://user-images.githubusercontent.com/83972698/191270203-f7724f1c-e13f-4240-846d-6b9ce4a7d4ef.png">
   <img align="center" alt="Tchako-Java" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
   <img align="center" alt="Tchako-Android" height="30" width="40" src="https://icongr.am/devicon/android-original.svg?size=128&color=currentColor">
   <img align="center" alt="Tchako-JavaScript" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
