@@ -13,6 +13,8 @@
 
 <div style="display: inline_block"><br>
   <img align="right" alt="Tchako" height="200" width="200" src="https://user-images.githubusercontent.com/83972698/191270203-f7724f1c-e13f-4240-846d-6b9ce4a7d4ef.png">
+  <img align="center" alt="Tchako-Dart" height="30" width="60" src="https://user-images.githubusercontent.com/83972698/192248139-4d74bdcb-b404-4e0f-8a4d-9236e78ef112.png">
+  <img align="center" alt="Tchako-flutter" height="30" width="30" src="https://user-images.githubusercontent.com/83972698/192248999-f6cccbc5-01e3-4b3f-8da2-4cc54f2c3757.png">
   <img align="center" alt="Tchako-Java" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
   <img align="center" alt="Tchako-Android" height="30" width="40" src="https://icongr.am/devicon/android-original.svg?size=128&color=currentColor">
   <img align="center" alt="Tchako-JavaScript" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
