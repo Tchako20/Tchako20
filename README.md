@@ -2,7 +2,7 @@
 
 - 🔭 Eu Estou Trabalhando Com BackEnd
 - 🌱 Eu Estou Estudando Dart,Flutter E Java
-- 📈 Eu Estou Trilhando Uma Trajétoria De Dev Mobile
+- 📈 Eu Estou Trilhando Uma Trajétoria Dev Mobile
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
